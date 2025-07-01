@@ -1,7 +1,5 @@
 # 🍏 Wasted Food - Food Waste Management System
 
-![Project Banner](https://via.placeholder.com/800x300?text=Wasted+Food+Management) *<!-- Add actual screenshot or banner here -->*
-
 A comprehensive solution to track, manage, and reduce food waste in commercial kitchens and restaurants.
 
 ## 🚀 Key Features
@@ -18,10 +16,6 @@ A comprehensive solution to track, manage, and reduce food waste in commercial k
 - SQL Server Database
 - JWT Authentication
 
-### Frontend
-- React.js with TypeScript
-- Redux for state management
-- Chart.js for analytics visualization
 
 ## 📦 Installation
 ```bash
