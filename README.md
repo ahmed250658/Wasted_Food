@@ -1,31 +1,45 @@
-# Wasted_Food Using Asp.net Core Web Api Using Clean Architecture Based On Code First
+# 🍏 Wasted Food - Food Waste Management System
 
-**Components**
+![Project Banner](https://via.placeholder.com/800x300?text=Wasted+Food+Management) *<!-- Add actual screenshot or banner here -->*
 
-1.CQRS Design Pattern
+A comprehensive solution to track, manage, and reduce food waste in commercial kitchens and restaurants.
 
-2.Generic(Repository) Design Pattern
+## 🚀 Key Features
+- **Real-time waste tracking** with barcode scanning
+- **AI-powered analytics** for waste pattern detection
+- **Inventory integration** with automatic expiry alerts
+- **Sustainability reporting** with visual dashboards
+- **Multi-user roles** (Admin, User)
 
-3.Pagination Schema
+## 🛠️ Technology Stack
+### Backend
+- ASP.NET Core Web API (.NET 7)
+- Entity Framework Core
+- SQL Server Database
+- JWT Authentication
 
-4.Localizations Of Data And Responses
+### Frontend
+- React.js with TypeScript
+- Redux for state management
+- Chart.js for analytics visualization
 
-5.Fluent Validations
+## 📦 Installation
+```bash
+# Clone repository
+git clone https://github.com/ahmed250658/Wasted_Food.git
 
-6.Configurations Using Data Annotations
+# Backend setup
+cd Wasted_Food/API
+dotnet restore
+dotnet run
 
-7.Configurations using Fluent API
+🤝 How to Contribute
+Fork the repository
 
-8.EndPoints Of Operations
+Create your feature branch (git checkout -b feature/AmazingFeature)
 
-9.Allow CORS
+Commit your changes (git commit -m 'Add some amazing feature')
 
-10.Using Identity
+Push to the branch (git push origin feature/AmazingFeature)
 
-11.Added Authentication
-
-12.Added JWT Token And SwaggerGen
-
-13.Authorizations(Roles,Claims)
-
-14.Service Like Send (Email,Upload Image)
+Open a Pull Request
